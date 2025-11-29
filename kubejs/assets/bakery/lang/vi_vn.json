@@ -1,11 +1,11 @@
 {
-  "item.bakery.bundt_cake_slice": "Slice of Orange Bundt Cake",
-  "block.bakery.bundt_cake": "Orange Bundt Cake",
-  "item.bakery.linzer_tart_slice": "Slice of Peach Linzer Tart",
-  "block.bakery.linzer_tart": "Peach Linzer Tart",
-  "item.bakery.toast": "Banana Bread",
-  "block.bakery.toast_block": "Banana Bread",
-  "item.bakery.jam_roll": "Dragonfruit Roll",
-  "block.bakery.apple_pie": "Pawpaw Pie",
-  "item.bakery.apple_pie_slice": "Slice of Pawpaw Pie"
+  "item.bakery.bundt_cake_slice": "Một Phần Bánh Bundt Vị Cam",
+  "block.bakery.bundt_cake": "Bánh Bundt Vị Cam",
+  "item.bakery.linzer_tart_slice": "Một Phần Peach Linzer Tart",
+  "block.bakery.linzer_tart": "Bánh Linzer Tart Vị Đào",
+  "item.bakery.toast": "Bánh Mì Chuối",
+  "block.bakery.toast_block": "Bánh Mì Chuối",
+  "item.bakery.jam_roll": "Bánh Cuội Thanh Long",
+  "block.bakery.apple_pie": "Bánh Đu Đủ",
+  "item.bakery.apple_pie_slice": "Một Phần Pawpaw Pie"
 }
